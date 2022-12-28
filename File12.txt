@@ -1,1 +1,4 @@
 github remote to local repo pull is easy
+local to remote
+local to stage
+stage to workspace
